@@ -1,4 +1,6 @@
-# Train Ticket Reservation SystemA C++ console-based application to simulate railway ticket reservation, showcasing OOP principles, data structures, and interactive user flow.
+# Train Ticket Reservation System
+
+# A C++ console-based application to simulate railway ticket reservation, showcasing OOP principles, data structures, and interactive user flow.
 
 ## Features- Book train tickets (including for groups)
 - Seat preference management (upper, lower, middle, side berths)
@@ -25,14 +27,14 @@
    ./train_reservation
    ```
 
-## Usage Example```
-Welcome to the Train Reservation System!
-Press 1 to view seats available
-Press 2 to book a ticket
-Press 3 to cancel the ticket
-Press 4 to view Booking details
-Press 5 to exit
-```
+## Usage Example
+- Welcome to the Train Reservation System!
+- Press 1 to view seats available
+- Press 2 to book a ticket
+- Press 3 to cancel the ticket
+- Press 4 to view Booking details
+- Press 5 to exit
+
 
 **Sakthi Vignesh (Sakthi-007)**
 
